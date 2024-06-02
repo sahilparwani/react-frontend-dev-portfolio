@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://sahilparwani.github.io/react-frontend-dev-portfolio/",
+  "homepage": "https://sahilparwani.github.io/react-frontend-dev-portfolio/public/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
