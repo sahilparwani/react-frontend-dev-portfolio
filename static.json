@@ -1,0 +1,16 @@
+{
+    "root": "build/",
+    "headers": {
+      "/**": {
+        "Access-Control-Allow-Origin": "*",
+        "Content-Type": "text/html"
+      },
+      "/static/css/*.css": {
+        "Content-Type": "text/css"
+      },
+      "/static/js/*.js": {
+        "Content-Type": "application/javascript"
+      }
+    }
+  }
+  

@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://sahilparwani.github.io/react-frontend-dev-portfolio/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^9.5.0",
