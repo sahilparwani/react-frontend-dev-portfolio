@@ -1,0 +1,89 @@
+{
+    "basic_info": {
+      "name": "Sahil Tarun Parwani",
+      "titles": [ "Graphic Designer", "Software Developer", "Front-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "95"
+        },
+        {
+          "name": "Adobe XD",
+          "class": "devicon-xd-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Premiere Pro",
+          "class": "devicon-premierepro-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Drupal 10",
+          "class": "devicon-drupal-plain",
+          "level": "65"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

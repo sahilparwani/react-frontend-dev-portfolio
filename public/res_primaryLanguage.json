@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am a dynamic and creative software and graphic design professional with a Master’s in Computer Software Engineering from Arizona State University and a Bachelor’s degree in Electronics and Communication Engineering from M.S Ramaiah Institute of Technology. With a robust technical background and a strong flair for design, I specialize in creating impactful digital experiences that resonate with users and drive engagement.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Design Work",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Video editing",
+        "startDate": "2020",
+        "description": "Youtube Video editing, shorts and Instagram Reels",
+        "link": "https://drive.google.com/drive/folders/1Nn3hl2YXLKbNye3FO0_iLbypYwvAyhkI?usp=sharing",
+        "images": 
+          "images/portfolio/animal-shelter/p1.png"
+        ,
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Photography and optimizing images with algorithms",
+        "link": "https://drive.google.com/drive/folders/1lISXhg78O_2oni1KFuQ5spUZGPByj9I_?usp=sharing",
+        "images": 
+          "images/portfolio/photography/p1.jpg",
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Logos",
+        "startDate": "2015",
+        "description": "Designed Logos, banners, Magazines",
+        "link": "https://drive.google.com/drive/folders/1P3clk-D9sfofAnz0_9PDF2KXJzsEEiNd?usp=sharing",
+        "images":
+          "images/portfolio/adventure/p1.jpg",
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "I-click photography club",
+        "title": "Freelance Graphic Designer",
+        "years": "01.2021 - 05.2022",
+        "mainTech": [
+          "HTML/CSS"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Adobe Creative Suite",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Eltropy Pvt Ltd",
+        "title": "Graphic and Web Designer",
+        "years": "07.2022 - 12.2023",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "HTML5",
+          "CSS3",
+          "Drupal10",
+          "Adobe Creative Suite",
+          "React"
+        ]
+      }
+    ]
+  }
